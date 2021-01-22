@@ -91,6 +91,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           GOARCH: amd64
           GOOS: windows
-
-
-  
